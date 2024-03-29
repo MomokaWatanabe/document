@@ -10,7 +10,7 @@ Python 2系と3系の使い分けなどを手軽に行うことができる。
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-2. インストールが完了したら下記コマンド投入
+2. インストールが完了したら下記コマンド投入。
 ```
 brew -v
 ```
@@ -34,7 +34,7 @@ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 ```
 
-下記コマンドを投入し、.zshrcが追記されていることを確認
+下記コマンドを投入し、.zshrcが追記されていることを確認。
 ```
 cat ~/.zshrc
 ```
