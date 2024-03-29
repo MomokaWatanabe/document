@@ -10,6 +10,9 @@ Python 2系と3系の使い分けなどを手軽に行うことができる。
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+コマンド投入後、パスワードが要求されるのでmacのログインパスワードを入力。
+
+
 2. インストールが完了したら下記コマンド投入。
 ```
 brew -v
