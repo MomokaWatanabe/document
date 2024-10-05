@@ -21,6 +21,9 @@
   - Windows10
   - CentOS7
   - Linux
+  - RHEL 8.2
+- MW
+  - Red Hat Directory Server
 - AP
   - Excel
   - Teraterm
@@ -33,12 +36,13 @@
   - Oracle
 - 言語
   - Ruby 2.5.8(2年4ヶ月)
+  - bash
 - FW
   - Ruby On Rails 5.2
 - その他
   - git
   - github
-  - teams
+  - Microsott Teams
   - Slack
 
 ## 強み
@@ -81,9 +85,10 @@
 ## 2023 9月~ 損害保険会社の複数のシステム保守業務
 主な業務内容：損害保険会社の複数のシステムの保守業務
              毎月の営業日ごとに同じ作業を、手順書に沿って行う
+必要なスキル：試験用手順書の執筆スキル
 
 職種： - ポジション:メンバー
-　　   - プロジェクト人数:20人
+　　   - プロジェクト人数:10人
 ```bash
 - Windows 11					
 - Linux				
